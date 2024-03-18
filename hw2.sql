@@ -12,6 +12,7 @@
 	   Price BETWEEN 1 AND 100
       ORDER BY Price DESC
       LIMIT 1
+	   
 -- 3. Вывести два самых дешевых товара из категории 4.
 
    SELECT *
