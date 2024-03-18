@@ -20,7 +20,7 @@ FROM Products
 	WHERE
 	NOT SupplierID = 1
 
-3. Вывести контактные имена клиентов, кроме тех, что из Germany и Brazil.
+4. Вывести контактные имена клиентов, кроме тех, что из Germany и Brazil.
 SELECT ContactName 
 FROM Customers
 	WHERE
